@@ -1,0 +1,2 @@
+# zfxy4FujisanChallenge
+三次元空間IDを用いた富士山チャレンジデータ分析手法の確立
